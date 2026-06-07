@@ -1,4 +1,4 @@
-# Cognifyz Technologies - Data Analysis Internship 🚀
+# Cognifyz Technologies - Data Analysis Internship
 
 This repository contains the code and report for the Data Analysis Internship task assigned by **Cognifyz Technologies**. The project involves analyzing a comprehensive restaurant dataset to uncover actionable insights regarding cuisines, geographic spread, pricing strategies, and customer ratings.
 
